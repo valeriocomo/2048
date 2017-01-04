@@ -18,7 +18,7 @@ Per installare il client, è necessario aver installato Google Chrome. Dopo di c
 
 Per eseguire il progetto è necessario aver installato:
 
-- NodeJS 6.*;
+- NodeJS 6.*
 
 - NPM 3.*
 
