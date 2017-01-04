@@ -28,7 +28,7 @@ Dopo di che, installare le dipendenze:
 
 Per lanciare il progetto, eseguire:
 
-`node game.js`
+`node 2048.js`
 
 # Autori
 
